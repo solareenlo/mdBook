@@ -1,5 +1,6 @@
 # mdBook
 
+- [Cheat Code](https://solareenlo.com/cheat/)
 - [Request for Comments](https://solareenlo.com/rfcs/)
 - [RFC 1459](https://solareenlo.com/rfc1459) (Internet Relay Chat Protocol)
 - [RFC 2810](https://solareenlo.com/rfc2810) (Internet Relay Chat: Architecture)
